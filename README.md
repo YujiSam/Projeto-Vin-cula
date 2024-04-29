@@ -33,3 +33,8 @@ Renato Dutra Ferreira de Aguiar 🔢
 Jose Antonio Kretzer Rodriguez 💾
 
 Victor Alves de Souza 🧩
+
+📺
+Segue Aqui o Video no Youtube da contextualização do Projeto
+
+https://youtu.be/rrjNIBryzW8
