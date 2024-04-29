@@ -6,17 +6,24 @@ Com base nessas informações, o circuito monitora continuamente esses parâmetr
 Uma vez solucionado, a buzina será desativada e o LED verde será reativado.
 
 🛠️ Pré-requisitos 🛠️
+
 É imprescindível ter o Arduino IDE instalado em sua máquina para executar os códigos na placa.
 
 🚀 Instalação 🚀
+
 Configure a sua placa Arduino conforme demonstrado no site da Wowki, realizando as devidas alterações, se necessário, substituindo o sensor DHT22 por um DHT11 em sua identificação (https://wokwi.com/projects/396186939263558657), além de baixar suas devidas bibliotecas, como a do Liquid Crystal e do DHT. Após montar a placa, conecte-a ao computador. Faça o download do arquivo projeto.ino, compile e o seu projeto estará pronto para funcionar!
 
 👷‍♂️ Utilizamos 👷‍♂️
+
 Wowki 🌐
 Arduino IDE 🤖
 
 👨‍💻 Autores 👨‍💻
+
 Gustavo Yuji Osugi 💻
+
 Renato Dutra Ferreira de Aguiar 🔢
+
 Jose Antonio Kretzer Rodriguez 💾
+
 Victor Alves de Souza 🧩
