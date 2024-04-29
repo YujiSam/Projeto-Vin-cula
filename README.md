@@ -11,6 +11,7 @@ Uma vez solucionado, a buzina será desativada e o LED verde será reativado.
 
 É imprescindível ter o Arduino IDE instalado em sua máquina para executar os códigos na placa.
 Conecte os componentes de acordo com o diagrama de circuito incluído no Wowki abaixo.
+
 (https://wokwi.com/projects/396186939263558657)
 
 🚀 Instalação 🚀
